@@ -6,7 +6,7 @@
 
 ## Install on Ubuntu
 
-1. clone this [repo](https://github.com/hpzhao/ROUGE-1.5.5)
+1. clone this repo
 2. install [Perl](https://askubuntu.com/questions/425427/how-to-install-perl-php-mysql-and-ruby-packages-on-ubuntu)
 3. *sudo apt-get install libxml-dom-perl*
 4. install DB_Files
